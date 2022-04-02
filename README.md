@@ -1,2 +1,1 @@
-# Shooting_Game
-Shooting Game 
+# Python Game
